@@ -172,7 +172,7 @@ Swartz27: Matthew Swartz
 * Add zoom and reload DOF which is read from the weapon configs if present
 - Add "sunmask"/cloud shadows shaders for R3&R4
   - Disable loading of pre-compiled shaders on R3/R4 to allow for loading of new/modifed shaders
-    - Have game automatically delete shaders_cache whenever there is a new shader or modifed shader
+    - Have game automatically delete shaders_cache whenever there is a new shader or modified shader
   - Add a console command to turn cloud shadows on or off (requires restart)
 - Add soft shadows shader to R2 (original author: cj ayho)
 - Add console command for enabling manual reloading on weapons
